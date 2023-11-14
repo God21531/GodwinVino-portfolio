@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GodwinVino-portfolio/static/css/main.244ed81b.css",
+    "main.js": "/GodwinVino-portfolio/static/js/main.7d8d9d9e.js",
+    "static/media/fs.jpg": "/GodwinVino-portfolio/static/media/fs.25c8402d7914e325593f.jpg",
+    "static/media/tiger.jpg": "/GodwinVino-portfolio/static/media/tiger.57d6dd67cbe40c7de109.jpg",
+    "static/media/Chaat.png": "/GodwinVino-portfolio/static/media/Chaat.d7cc3cb05b64ab79a3de.png",
+    "static/media/Screenshot 2023-10-20 205121.png": "/GodwinVino-portfolio/static/media/Screenshot 2023-10-20 205121.734e83d337b969180bad.png",
+    "static/media/webs.jpg": "/GodwinVino-portfolio/static/media/webs.ac0d71f9b4be9beb35a8.jpg",
+    "static/media/12a.png": "/GodwinVino-portfolio/static/media/12a.8af28c7770a10bdc4539.png",
+    "static/media/delis.jpeg": "/GodwinVino-portfolio/static/media/delis.9f26021c846b7d829e4b.jpeg",
+    "static/media/contactImg.png": "/GodwinVino-portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/GodwinVino-portfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/hackwitlogo.png": "/GodwinVino-portfolio/static/media/hackwitlogo.ffff981c8d70b007d715.png",
+    "static/media/projectThree.jpeg": "/GodwinVino-portfolio/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/GodwinVino-portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/GodwinVino-portfolio/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/GodwinVino-portfolio/index.html",
+    "main.244ed81b.css.map": "/GodwinVino-portfolio/static/css/main.244ed81b.css.map",
+    "main.7d8d9d9e.js.map": "/GodwinVino-portfolio/static/js/main.7d8d9d9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.244ed81b.css",
+    "static/js/main.7d8d9d9e.js"
+  ]
+}
